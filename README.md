@@ -1,6 +1,6 @@
 <h2 align="left">👋 Hey there</h2>
 
-<h4 align="left">I'm Vinay Joglekar, an android engineer having experience of working large scale applications in various domains.</h4>
+<h4 align="left">I'm Vinay Joglekar, an android engineer having experience of working on large scale applications in various domains.</h4>
 
 
 - 💼&nbsp;&nbsp;&nbsp;Android Engineer at <a href="https://global.rakuten.com/corp/">Rakuten.</a>
