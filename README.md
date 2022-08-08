@@ -3,7 +3,7 @@
 I'm Vinay Joglekar, an android engineer having experience of working on large scale applications in various domains.
 
 
-- 💼&nbsp;&nbsp;&nbsp;Android Engineer at <a href="https://www.google.com/">Google.</a>
+- 💼&nbsp;&nbsp;&nbsp;Android Engineer at <a href="https://www.google.com/">Google</a>.
 
 - 📝 I write articles on [android and software development](https://medium.com/@VNJoglekar)
 
