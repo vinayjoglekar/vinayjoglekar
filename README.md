@@ -7,7 +7,7 @@ I'm Vinay Joglekar, an android engineer having experience of working on large sc
 
 - 📝 I write articles on [android and software development](https://medium.com/@VNJoglekar)
 
-- :technologist: Interested in **Software Design and architecture, microservices**
+- :technologist: Interested in **Software Design and architecture**
 
 
  <div align="center"> <h3><b>Let's connect and chat! Find me on</b></h3>
